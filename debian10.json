@@ -6,7 +6,7 @@
       "disk_size": "40960",
       "iso_url": "https://cdimage.debian.org/mirror/cdimage/archive/10.11.0/amd64/iso-cd/debian-10.11.0-amd64-netinst.iso",
       "iso_checksum": "133430141272d8bf96cfb10b6bfd1c945f5a59ea0efc2bcb56d1033c7f2866ea",
-      "preseed_file": "preseed.cfg",
+      "preseed_file": "preseed-cli.cfg",
       "ssh_username" : "packer",
       "ssh_password" : "packer",
       "boot_wait": "5s"
